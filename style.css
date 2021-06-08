@@ -1,0 +1,61 @@
+body{
+    font-family: 'Kumbh Sans' sans-serif;
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#nav1{
+    background-color: #e7e7e7;
+    padding: 1%;
+}
+
+.box2{
+    padding-top: 100px;
+    align-content: space-between;
+    padding-left: -55px;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.btn-primary{
+    background-color: #99f571;
+    border-radius: 13px;
+    width: 90px;
+    border: #99f571;
+}
+
+.btn-primary:hover{
+    background: #99f571;
+}
+
+.buttons2{
+    box-sizing: border-box;
+    align-items: center;
+    gap: .5rem;
+    margin-top: 10px;
+    justify-content: space-between;
+    display: flex;
+    list-style-type: none;
+    margin-left: 50px;
+}
+#meetings{
+    justify-content: center;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+}
+
+#body2{
+    background-color: #e7e7e7;
+    overflow: hidden;
+}
