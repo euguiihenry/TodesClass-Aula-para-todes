@@ -9,6 +9,8 @@
     <li>Foi criado uma página principal de direcionamento para as páginas de Aula e Exercícios.</li>
     <li>A página de Aulas possui uma api do Jitsi para o desenvolvimento das aulas.</li>
     <li>A página de Exercícios encaminha a página de questões da Estuda.com (apenas foi usado como exemplo de uma página de exercícios, uma vez que não foi construído nenhum tipo de banco de dados (ou algo do tipo para armazenamento de dados referência a dados tanto de log-in quanto de questões.</li>
+    <li>A imagem utilizada na página principal ao lado dos botões das sub-páginas é do site <a href="https://blush.design/pt">Blush</a></li>
+    <li>O logo da página foi criado através do canva com ajuda dos templates já disponiveis na plataforma.</li>
 </ul>
 <p>Por fim, todos as referências aqui citadas possuem seus direitos reservados<p>
 <p>A utilização do site da Estuda.com foi apenas um exemplo, sendo assim não significa nenhuma recomendação, nem nada do tipo</p>
